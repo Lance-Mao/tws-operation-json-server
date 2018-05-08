@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}

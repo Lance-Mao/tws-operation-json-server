@@ -1,0 +1,28 @@
+{
+  "weather_data": [
+    {
+      "id": 1,
+      "date": "今天（周三）",
+      "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/duoyun.png",
+      "weather": "多云",
+      "wind": "微风",
+      "temperature": "23℃"
+    },
+    {
+      "id": 2,
+      "date": "明天（周四）",
+      "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/leizhenyu.png",
+      "weather": "雷阵雨转中雨",
+      "wind": "微风",
+      "temperature": "29～22℃"
+    },
+    {
+      "id": 3,
+      "date": "后天（周五）",
+      "dayPictureUrl": "http://api.map.baidu.com/images/weather/day/yin.png",
+      "weather": "阴转多云",
+      "wind": "微风",
+      "temperature": "31～23℃"
+    }
+  ]
+}

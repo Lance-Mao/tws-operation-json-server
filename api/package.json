@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "moke": "json-server db.json --watch --port 3000"
+  }
+}
